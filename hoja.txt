@@ -1,2 +1,1 @@
-Este es un documento versionable
-esta es segunda versión
+Este es otra version del documento inicial
